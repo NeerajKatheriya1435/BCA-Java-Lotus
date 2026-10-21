@@ -12,20 +12,25 @@ public class Day3 {
 
         // Operators in java
 
-        int num1=7;
-        int num2=4;
+        // int num1=7;
+        // int num2=4;
         // System.out.println(num1+num2);
         // System.out.println(num1-num2);
         // System.out.println(num1*num2);
         // System.out.println(num1/num2);
 
-        System.out.println(num1>num2);
-        System.out.println(num1<num2);
-        System.out.println(num1!=num2);
-        System.out.println(num1==num2);
-        System.out.println(num1>=num2);
-        System.out.println(num1<=num2);
+        // System.out.println(num1>num2);
+        // System.out.println(num1<num2);
+        // System.out.println(num1!=num2);
+        // System.out.println(num1==num2);
+        // System.out.println(num1>=num2);
+        // System.out.println(num1<=num2);
+
+        // int num1=7;
+        // int num2=4;
+        // float num1=7;
+        // float num2=4;
+
+        // System.out.println((float)num1/num2);
     }
-
-
 }
